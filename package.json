@@ -1,0 +1,10 @@
+{
+  "name": "prediction-governance-v3",
+  "version": "0.1.0",
+  "description": "Advanced governance modules for decentralized prediction platforms",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
